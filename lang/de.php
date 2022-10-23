@@ -46,6 +46,7 @@ $LANG['LABEL_TAKE'] = 'Max. Anzahl Caches (1 bis 500)';
 $LANG['LABEL_CACHE_TYPE'] = 'Cache Typ';
 $LANG['LABEL_HINT_CACHE_TYPE'] = 'Garmin GPS Geräte unterstützen keine Adventure Labs. Vielleicht willst Du sie lieber als virtuelle Caches exportieren.';
 $LANG['LABEL_INCLUDE_QUESTION'] = 'Frage zur Station in Beschreibung einfügen';
+$LANG['LABEL_QUESTION_AS_HINT'] = 'Frage zur Station im Hint speichern';
 $LANG['LABEL_INCLUDE_DESCRIPTION'] = 'Beschreibung der Station in Cache Beschreibung einfügen';
 $LANG['LABEL_INCLUDE_CACHE_DESCRIPTION'] = 'Beschreibung des Adventure Labs in Cache Beschreibung einfügen';
 $LANG['LABEL_EXCLUDE_OWNER'] = 'Owner Name ausschließen (ein Name pro Zeile)';
